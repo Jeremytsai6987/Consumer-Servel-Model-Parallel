@@ -1,0 +1,5 @@
+ERROR: Unable to locate a modulefile for 'python/3.9'
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(plot.py:470774): Gdk-CRITICAL **: 23:26:52.972: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
